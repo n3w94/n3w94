@@ -1,6 +1,6 @@
 # n3w94
 
-<h1 align="center">Hey there! 👋 I'm new94</h1>
+<h1 align="center">Hey there! 👋 I'm n3w94</h1>
 <p align="center">
   💻 CS Student • 🔐 Security Curious • 🛠 Tinkerer • 🚀 Always Learning
 </p>
