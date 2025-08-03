@@ -68,5 +68,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=new94&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n3w94&show_icons=true&theme=tokyonight" height="165" />
 </p>
