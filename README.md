@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there! 👋 I'm n3w94</h1>
 <p align="center">
-  💻 CS Student • 🔐 Security Curious • 🛠 Tinkerer • 🚀 Always Learning
+  💻 CS Student • 🔐 Security Enthusiast • 🛠 Tech Tinkerer • 🚀 Lifelong Learner
 </p>
 
 <p align="center">
@@ -11,26 +11,26 @@
 
 ---
 
-### 👨‍💻 A Bit About Me
+### 👨‍💻 About Me
 
-- 🎓 Currently studying **Computer Science** at UOWM
-- 🔍 Passionate about exploring tech fields beyond the classroom
-- 🛠 Working on a **Python-based system assistant**
-- 🌐 Learning through YouTube, docs, courses, and hours of trial & error
+- 🎓 Studying **Computer Science** at UOWM
+- 🔍 Passionate about exploring technology beyond the classroom
+- 🛠 Currently building a **Python-based system assistant**
+- 🌐 Constantly learning via YouTube, docs, courses, and hands-on practice
 - ☕ Coffee-fueled coding is the best kind, right?
 
 ---
 
 ### 💡 What I Use & Explore
 
-- 🧠 **Languages I Know/Use**:  
+- 🧠 **Languages I Use**:  
   C/C++, Python, Java, HTML5, CSS3, JavaScript, PHP, SQL, Assembly
 
-- 🚀 **Languages I'm Exploring**:  
+- 🚀 **Languages I’m Exploring**:  
   Rust, Go, Kotlin, Swift, Ruby
 
-- 🧰 **Tools**:  
-  VS Code, Visual Studio, Node.js, Git/GitHub, Linux terminal stuff
+- 🧰 **Tools & Platforms**:  
+  VS Code, Visual Studio, Node.js, Git/GitHub, Linux terminal
 
 - 💻 **OS Environments**:  
   Windows 🪟 & Linux 🐧
@@ -39,34 +39,35 @@
 
 ### 🔍 Currently Exploring
 
-- 🛡️ **Cybersecurity** → basic concepts like encryption, Linux tools & network stuff  
-- 🌐 **Web Development** → front-end (HTML/CSS/JS) & back-end (Node.js, PHP, SQL)  
-- 🤖 **AI/ML (Machine Learning)** → learning how machines learn (with some math magic 🧮)
+- 🛡️ **Cybersecurity**: Encryption, Linux tools, networking basics  
+- 🌐 **Web Development**: Full stack with HTML/CSS/JS, Node.js, PHP, SQL  
+- 🤖 **AI/ML**: How machines learn (and some math behind it 🧮)
 
-🧠 I'm mixing university with self-learning from sites like Coursera, freeCodeCamp, YouTube, blogs & docs.
+I'm blending university learning with self-learning via Coursera, freeCodeCamp, YouTube, blogs, and docs.
 
 ---
 
-### 🚀 Cool Little Projects
+### 🚀 Featured Projects
 
-| 🔧 Project | What It Does | Language |
-|-----------|--------------|----------|
-| 🗂️ [File Integrity Checker](https://github.com/new94/file-integrity-checker-python) | Calculates SHA256 hashes for folder files | Python |
+| 🔧 Project | Description | Language |
+|-----------|-------------|----------|
+| 🗂️ [File Integrity Checker](https://github.com/new94/file-integrity-checker-python) | Calculates SHA256 hashes of folder files | Python |
 | 🌐 [Safe URL Validator](https://github.com/new94/Java-Safe-URL-Validator) | Checks if a URL is HTTPS and valid | Java |
-| 🔒 [Password Strength Checker](https://github.com/new94/Password-Strength-Checker-C-) | Checks password strength in terminal | C++ |
+| 🔒 [Password Strength Checker](https://github.com/new94/Password-Strength-Checker-C-) | Terminal-based password strength checker | C++ |
 
 ---
 
-### 🎯 Goals Ahead
+### 🎯 Goals
 
-- 🧪 Finish & publish my portfolio site (it’s brewing ☕)
-- 📤 Start contributing to **open-source tools** (bug reports, code fixes, docs — anything helps!)
-- 🤝 Connect more with the dev community and build cool stuff along the way
+- 🚀 Publish my portfolio website (in progress!)
+- 🧑‍🤝‍🧑 Start contributing to open-source projects (code, bugs, docs)
+- 🌱 Connect more with the dev community & grow together
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3w94&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n3w94&show_icons=true&theme=gruvbox&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3w94&layout=compact&theme=gruvbox&hide_border=true" height="165" />
 </p>
