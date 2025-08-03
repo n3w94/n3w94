@@ -52,7 +52,7 @@
 
 ### 🔍 Currently Exploring
 
-- 🔐 **CyberSecurity Concepts (basic)** → mostly related to secure coding, hashing, and network fundamentals
+- 🔐 **CyberSecurity Concepts** → mostly related to secure coding, hashing, and network fundamentals
 - ☁️ **Cloud Technologies** → cloud-native tools, containers (Docker), serverless functions, deployment workflows  
 - 📊 **Data Science & ML** → Python-based data analysis, Pandas, NumPy, Jupyter, data visualization  
 
