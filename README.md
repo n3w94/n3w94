@@ -13,7 +13,7 @@
 
 ### 👨‍💻 A Bit About Me
 
-- 🎓 Currently studying **Computer Science** at university
+- 🎓 Currently studying **Computer Science** at UOWM
 - 🔍 Passionate about exploring tech fields beyond the classroom
 - 🛠 Working on a **Python-based system assistant**
 - 🌐 Learning through YouTube, docs, courses, and hours of trial & error
