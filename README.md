@@ -2,66 +2,85 @@
 
 <h1 align="center">Hey there! 👋 I'm n3w94</h1>
 <p align="center">
-  💻 CS Student • 🔐 Security Enthusiast • 🛠 Tech Tinkerer • 🚀 Lifelong Learner
+  💻 CS Student • 🔐 Security Curious • 🛠 Tinkerer • 🚀 Always Learning
+</p>
+<p align="center">
+  <!-- Languages you know -->
+  <img src="https://skillicons.dev/icons?i=assembly,python,c,cpp,java,js,php,html,css,sql&perline=10" alt="Languages I Know" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,php,sql,assembly,nodejs,rust,go,kotlin,swift,ruby,vscode,linux,git&perline=9" alt="My Tech Stack" />
+  <!-- Tools and OS -->
+  <img src="https://skillicons.dev/icons?i=bash,windows,linux,git,github&perline=5" alt="Tools and OS" />
 </p>
+
+<p align="center">
+  <!-- Languages you want to learn -->
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,ruby,rust,go&perline=5" alt="Languages to Learn" />
+</p>
+
+
+
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 A Bit About Me
 
-- 🎓 Studying **Computer Science** at UOWM
-- 🔍 Passionate about exploring technology beyond the classroom
-- 🛠 Currently building a **Python-based system assistant**
-- 🌐 Constantly learning via YouTube, docs, courses, and hands-on practice
-- ☕ Coffee-fueled coding is the best kind, right?
+- 🎓 Currently studying **Computer Science** at UOWM  
+- 🔍 Passionate about exploring tech fields beyond the classroom  
+- 🛠 Working on a **Python-based system assistant**  
+- 🌐 Continuously developing my skills by combining university studies with learning from diverse sources
+  
 
 ---
 
 ### 💡 What I Use & Explore
 
-- 🧠 **Languages I Use**:  
-  C/C++, Python, Java, HTML5, CSS3, JavaScript, PHP, SQL, Assembly
+- 🧠 **Languages I Know/Use:**  
+  Python, C, C++, Java, JavaScript, PHP, HTML5, CSS3, SQL, Assembly
 
-- 🚀 **Languages I’m Exploring**:  
-  Rust, Go, Kotlin, Swift, Ruby
+- 🚀 **Languages I'm Learning / Exploring:**  
+  Kotlin, Dart, Ruby, Rust, Go
 
-- 🧰 **Tools & Platforms**:  
-  VS Code, Visual Studio, Node.js, Git/GitHub, Linux terminal
+- 🧰 **Tools:**  
+  VS Code, Visual Studio, Git, GitHub, Linux CLI, Node.js
 
-- 💻 **OS Environments**:  
+- 💻 **OS Environments:**  
   Windows 🪟 & Linux 🐧
 
 ---
 
 ### 🔍 Currently Exploring
 
-- 🛡️ **Cybersecurity**: Encryption, Linux tools, networking basics  
-- 🌐 **Web Development**: Full stack with HTML/CSS/JS, Node.js, PHP, SQL  
-- 🤖 **AI/ML**: How machines learn (and some math behind it 🧮)
-
-I'm blending university learning with self-learning via Coursera, freeCodeCamp, YouTube, blogs, and docs.
+- 🔐 **CyberSecurity Concepts (basic)** → mostly related to secure coding, hashing, and network fundamentals
+- ☁️ **Cloud Technologies** → cloud-native tools, containers (Docker), serverless functions, deployment workflows  
+- 📊 **Data Science & ML** → Python-based data analysis, Pandas, NumPy, Jupyter, data visualization  
 
 ---
 
-### 🚀 Featured Projects
-
-| 🔧 Project | Description | Language |
-|-----------|-------------|----------|
-| 🗂️ [File Integrity Checker](https://github.com/new94/file-integrity-checker-python) | Calculates SHA256 hashes of folder files | Python |
+| 🔧 Project | What It Does | Language |
+|-----------|--------------|----------|
+| 🗂️ [File Integrity Checker](https://github.com/new94/file-integrity-checker-python) | Calculates SHA256 hashes for folder files | Python |
 | 🌐 [Safe URL Validator](https://github.com/new94/Java-Safe-URL-Validator) | Checks if a URL is HTTPS and valid | Java |
-| 🔒 [Password Strength Checker](https://github.com/new94/Password-Strength-Checker-C-) | Terminal-based password strength checker | C++ |
+| 🔒 [Password Strength Checker](https://github.com/new94/Password-Strength-Checker-C-) | Checks password strength in terminal | C++ |
 
 ---
 
-### 🎯 Goals
+### 🎯 Goals Ahead
 
-- 🚀 Publish my portfolio website (in progress!)
-- 🧑‍🤝‍🧑 Start contributing to open-source projects (code, bugs, docs)
-- 🌱 Connect more with the dev community & grow together
+- 🧪 Finish & publish my portfolio site  
+- 📤 Start contributing to **open-source tools** (bug reports, code fixes, docs — anything helps!)  
+- 🤝 Connect more with the dev community and build cool stuff along the way
+
+---
+### 📊 Top Languages I'm Using
+
+| Language  | Usage % |
+|-----------|---------|
+| 🐍 Python | 40%     |
+| 💙 C++    | 25%     |
+| ☕ Java   | 20%     |
+| 🐚 Bash  | 15%     |
 
 ---
 
@@ -69,5 +88,4 @@ I'm blending university learning with self-learning via Coursera, freeCodeCamp, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=n3w94&show_icons=true&theme=gruvbox&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3w94&layout=compact&theme=gruvbox&hide_border=true" height="165" />
 </p>
